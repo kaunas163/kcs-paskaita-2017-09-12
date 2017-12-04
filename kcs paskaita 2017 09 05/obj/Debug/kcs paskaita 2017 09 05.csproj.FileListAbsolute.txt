@@ -1,0 +1,6 @@
+C:\Users\ievaj\Desktop\projektai\_KCS\kcs paskaita 2017 09 05\kcs paskaita 2017 09 05\bin\Debug\kcs paskaita 2017 09 05.exe.config
+C:\Users\ievaj\Desktop\projektai\_KCS\kcs paskaita 2017 09 05\kcs paskaita 2017 09 05\bin\Debug\kcs paskaita 2017 09 05.exe
+C:\Users\ievaj\Desktop\projektai\_KCS\kcs paskaita 2017 09 05\kcs paskaita 2017 09 05\bin\Debug\kcs paskaita 2017 09 05.pdb
+C:\Users\ievaj\Desktop\projektai\_KCS\kcs paskaita 2017 09 05\kcs paskaita 2017 09 05\obj\Debug\kcs paskaita 2017 09 05.csprojResolveAssemblyReference.cache
+C:\Users\ievaj\Desktop\projektai\_KCS\kcs paskaita 2017 09 05\kcs paskaita 2017 09 05\obj\Debug\kcs paskaita 2017 09 05.exe
+C:\Users\ievaj\Desktop\projektai\_KCS\kcs paskaita 2017 09 05\kcs paskaita 2017 09 05\obj\Debug\kcs paskaita 2017 09 05.pdb
